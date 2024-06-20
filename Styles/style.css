@@ -690,7 +690,7 @@ a {
     /* padding-top: 100px; */
     background-image:
         linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%),
-        url("/Images/safety-banner-full-crop.png");
+        url("/Images/safety_final.png");
     background-blend-mode: normal;
     background-size: contain;
     background-repeat: no-repeat;
