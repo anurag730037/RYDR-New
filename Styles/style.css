@@ -811,6 +811,10 @@ a {
 
 /* Drive With US  */
 
+.safety-page-top .home-section {
+    background-color: #c3000000;
+}
+
 .with-us-top {
     background-image:
         linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%),
