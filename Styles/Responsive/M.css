@@ -1,4 +1,4 @@
-@media (max-width: 768px) {
+@media (max-width: 800px) {
 
     .sub-heading {
         font-size: 40px;
@@ -320,7 +320,5 @@
         margin-top: 15px;
         font-size: 1.1rem;
     }
-
-
 
 }

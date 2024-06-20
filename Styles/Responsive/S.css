@@ -182,6 +182,13 @@
 
 
 
+@media (min-width: 431px) and (max-width: 575px) {
+    .title-img {
+        left: 50%;
+        transform: translateX(-50%);
+        width: 35%;
+    }
+}
 
 
 
