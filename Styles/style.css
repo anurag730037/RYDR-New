@@ -460,8 +460,12 @@ a {
 
 }
 
+.selection-part .card-body {
+    padding: 0.25rem !important;
+}
+
+
 .card-title {
-    font-family: Plus Jakarta Sans;
     font-size: 30px;
     font-weight: 700;
     line-height: 60px;
@@ -480,8 +484,7 @@ a {
 }
 
 .driver-part .card-title {
-    font-family: Plus Jakarta Sans;
-    font-size: 30px;
+    font-size: 27px;
     font-weight: 700;
     line-height: 60px;
     letter-spacing: -0.02em;
@@ -489,7 +492,6 @@ a {
 }
 
 .driver-part .card-text {
-    font-family: Plus Jakarta Sans;
     font-size: 20px;
     font-weight: 400;
     line-height: 35px;
@@ -563,6 +565,7 @@ a {
     max-width: 100%;
 
 }
+
 
 .row {
     margin: 0 !important;
