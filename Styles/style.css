@@ -628,10 +628,8 @@ a {
 }
 
 .direct-links {
-    font-family: Plus Jakarta Sans;
     font-size: 21px;
     font-weight: 500;
-    /* line-height: 32px; */
     text-align: left;
     color: #0e1118;
 
@@ -692,10 +690,7 @@ a {
 }
 
 .safety-page-top {
-    /* padding-top: 100px; */
-    background-image:
-        linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%),
-        url("/Images/safety_final.png") !important;
+    background-image: linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%), url("/Images/safety_final.png") !important;
     background-blend-mode: normal;
     background-size: contain;
     background-repeat: no-repeat;
