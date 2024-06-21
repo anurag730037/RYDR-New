@@ -690,7 +690,7 @@ a {
 }
 
 .safety-page-top {
-    background-image: linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%), url("/Images/safety_final.png") !important;
+    background-image: linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%), url("Images/safety_final.png") !important;
     background-blend-mode: normal;
     background-size: contain;
     background-repeat: no-repeat;
@@ -819,7 +819,7 @@ a {
 .with-us-top {
     background-image:
         linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%),
-        url("/Images/Drive.png") !important;
+        url("Images/Drive.png") !important;
     background-blend-mode: normal;
     background-size: contain;
     background-repeat: no-repeat;
