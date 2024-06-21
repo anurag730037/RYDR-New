@@ -690,12 +690,13 @@ a {
 }
 
 .safety-page-top {
-    background-image: linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%), url("Images/safety_final.png") !important;
+    background-image: linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%), url("../Images/safety_final.png") !important;
     background-blend-mode: normal;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-position: right center;
+    background-color: transparent;
 }
 
 .safety-page-text {
@@ -706,8 +707,6 @@ a {
 
 
 /* -------------------------- */
-
-
 
 .cust-safety-portion {
     background-color: #C30000;
@@ -811,15 +810,13 @@ a {
 
 /* Drive With US  */
 
-.with-us-top .home-section {
-    background-color: transparent !important;
-    /* for Git */
-}
+
 
 .with-us-top {
     background-image:
         linear-gradient(90deg, rgb(194, 13, 13) 1%, rgba(194, 13, 13) 35%, rgba(247, 247, 247, 0) 60%),
-        url("Images/Drive.png") !important;
+        url("/Images/Drive.png") !important;
+    background-color: transparent;
     background-blend-mode: normal;
     background-size: contain;
     background-repeat: no-repeat;

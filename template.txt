@@ -138,13 +138,17 @@
                         <h5 class="footer-heading">Contact Us</h5>
                     </div>
                     <div>
-                        <form class="contact-form contact-div">
-                            <input type="text" class="form-control" placeholder=" Name" required>
-                            <input type="number" class="form-control" placeholder=" Phone" required name="" id="">
-                            <input type="email" class="form-control" placeholder="Email" required>
-                            <textarea class="form-control" rows="3" placeholder=" Message" required></textarea>
-                            <button type="submit" class="btn log-in contact-btn">Contact</button>
-                        </form>
+                       <form class="contact-form contact-div">
+                                <input type="text" class="form-control" placeholder=" Name" id="connect-name" required>
+                                <input type="number" class="form-control" placeholder=" Phone" required name=""
+                                    id="connect-phone">
+                                <input type="email" class="form-control" placeholder="Email" id="connect-email"
+                                    required>
+                                <textarea class="form-control" rows="3" placeholder=" Message" id="connect-message"
+                                    required></textarea>
+                                <button type="submit" class="btn log-in contact-btn"
+                                    id="contact-submit">Contact</button>
+                            </form>
                     </div>
                 </div>
             </div>
